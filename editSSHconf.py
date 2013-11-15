@@ -2,7 +2,7 @@
 
 #############################################################################
 #  editSSHconf.py - description
-#  Copyright (C) 2009 
+#  Copyright (C) 2013 
 # @author: Kevin Partridge
 #
 # 
